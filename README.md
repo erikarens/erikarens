@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erik Arens</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Produktfinder](https://github.com/erikarens/produktfinder)
+- 🔭 I’m currently working on [CustomerMap](https://github.com/erikarens/CustomerMap)
 
 - 🌱 I’m working with:
   - **Angular** 
+  - **Vue.js** 
   - **TypeScript** 
   - **JavaScript**
 
