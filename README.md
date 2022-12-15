@@ -5,7 +5,7 @@
 
 - 🌱 I’m working with:
   - **Angular** 
-  - **Vue.js** 
+  - **React Native** 
   - **TypeScript** 
   - **JavaScript**
 
