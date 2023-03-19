@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik Arens</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-
-- 🔭 I’m currently working on [CustomerMap](https://github.com/erikarens/CustomerMap)
+<h3 align="center">A passionate software developer from Germany</h3>
 
 - 🌱 I’m working with:
   - **Angular** 
@@ -9,11 +7,9 @@
   - **TypeScript** 
   - **JavaScript**
 
-- 👨‍💻 Some of my projects are available at [https://erikarens.de](https://erikarens.de)
+- 👨‍💻 Personal-Website [https://erikarens.de](https://erikarens.de)
 
 - 📫 How to reach me **erikarens@netzhero.de**
-
-- ⚡ Fun fact **There are no problems, only solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
