@@ -2,10 +2,10 @@
 <h3 align="center">A passionate software developer from Germany</h3>
 
 - 🌱 I’m working with:
+  - **TypeScript** 
   - **Angular** 
   - **React Native** 
-  - **TypeScript** 
-  - **JavaScript**
+  - **C# / ASP.NET**
 
 - 👨‍💻 Personal-Website [https://erikarens.de](https://erikarens.de)
 
