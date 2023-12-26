@@ -5,7 +5,7 @@
   - **TypeScript** 
   - **Angular** 
   - **React Native** 
-  - **C# / ASP.NET**
+  - **C# / .NET**
 
 - 👨‍💻 Personal-Website [https://erikarens.de](https://erikarens.de)
 
